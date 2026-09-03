@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://h12-company.github.io/stock-briefing/sitemap.xml
