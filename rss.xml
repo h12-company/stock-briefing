@@ -5,6 +5,13 @@
   <description>코스피·코스닥·나스닥 매일 아침·저녁 데이터 브리핑</description>
   <language>ko</language>
   <item>
+    <title>2026년 10월 05일 마감 증시 브리핑 — 코스피 +0.46%</title>
+    <link>https://h12-company.github.io/stock-briefing/briefing/2026-10-05-evening.html</link>
+    <guid>https://h12-company.github.io/stock-briefing/briefing/2026-10-05-evening.html</guid>
+    <pubDate>Mon, 05 Oct 2026 17:37:57 +0900</pubDate>
+    <description>2026년 10월 05일 코스피는 7,003.74포인트로 전일 대비 +0.46% 상승 마감했습니다. 코스닥은 893.29포인트(-0.11%)로 마감했습니다. 이날 상승 배경은 1) 마이크론이 먼저 확인한 메모리 호황…삼성·SK하이닉스는 &#x27;비용 변수&#x27; 2) 엔비디아 AI 반도체 &#x27;담보대출</description>
+  </item>
+  <item>
     <title>2026년 10월 05일 아침 증시 브리핑 — 코스피 +0.46%</title>
     <link>https://h12-company.github.io/stock-briefing/briefing/2026-10-05-morning.html</link>
     <guid>https://h12-company.github.io/stock-briefing/briefing/2026-10-05-morning.html</guid>
@@ -346,12 +353,5 @@
     <guid>https://h12-company.github.io/stock-briefing/briefing/2026-09-07-morning.html</guid>
     <pubDate>Mon, 07 Sep 2026 05:52:39 +0900</pubDate>
     <description>2026년 09월 07일 아침 기준, 간밤 미국 증시는 나스닥이 26,506.99포인트로 -0.29% 하락 마감했습니다. S&amp;P500은 -0.38%, 다우는 -0.51%였습니다. 미국 선물은 나스닥100 +0.14%, S&amp;P500 -0.42%로 약세입니다. 주요 변수는 1) 나스닥 0.</description>
-  </item>
-  <item>
-    <title>오늘 코스피 방향 예측</title>
-    <link>https://h12-company.github.io/stock-briefing/briefing/2026-09-05-morning.html</link>
-    <guid>https://h12-company.github.io/stock-briefing/briefing/2026-09-05-morning.html</guid>
-    <pubDate>Sat, 05 Sep 2026 05:52:25 +0900</pubDate>
-    <description>2026년 09월 05일 아침 기준, 간밤 미국 증시는 나스닥이 26,506.99포인트로 -0.29% 하락 마감했습니다. S&amp;P500은 -0.38%, 다우는 -0.51%였습니다. 미국 선물은 나스닥100 -0.02%, S&amp;P500 -0.52%로 약세입니다. 주요 변수는 1) 나스닥 0.</description>
   </item>
 </channel></rss>
